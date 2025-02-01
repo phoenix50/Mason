@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,a as e,b as o}from"./index-YFBPTQ-D.js";const c={},r=e("h1",{class:"dark:text-white px-3 skew-15deg"},[o(" This is an about page222"),e("i",{class:"fa-solid fa-heart"})],-1),n=[r];function _(i,d){return t(),a("div",null,n)}const f=s(c,[["render",_]]);export{f as default};
